@@ -1,0 +1,13 @@
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\WebApplication2.exe
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\appsettings.Development.json
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\appsettings.json
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\WebApplication2.dll
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\WebApplication2.deps.json
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\WebApplication2.runtimeconfig.json
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\WebApplication2.pdb
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\System.Data.SqlClient.dll
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\runtimes\win-arm64\native\sni.dll
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\runtimes\win-x64\native\sni.dll
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\runtimes\win-x86\native\sni.dll
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\project\RAndD\azure\WEBapp\WebApplication2\bin\publish\runtimes\win\lib\net8.0\System.Data.SqlClient.dll

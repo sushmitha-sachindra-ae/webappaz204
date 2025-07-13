@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Course>
+   
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Az 204</p>
+    @foreach (var course in Model)
+    {
+        <div>
+            <h2>@course.sName</h2>
+            <p>Rating: @course.Rating</p>
+        </div>
+    }
+</div>
